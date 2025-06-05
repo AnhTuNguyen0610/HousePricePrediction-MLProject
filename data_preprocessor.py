@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import StandardScaler, MinMaxScaler, PolynomialFeatures
+from sklearn.preprocessing import StandardScaler, PolynomialFeatures
 
 
 class DataPreprocessor:

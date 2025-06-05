@@ -1,5 +1,5 @@
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, MinMaxScaler, PolynomialFeatures
+from sklearn.preprocessing import StandardScaler
 
 
 class ModelTrainer:

@@ -112,10 +112,6 @@ class HousePricePredictionPipeline:
         return model.predict(new_data)
 
 
-# ================================================================
-# CHẠY PIPELINE
-# ================================================================
-
 if __name__ == "__main__":
     # Khởi tạo và chạy pipeline
     pipeline = HousePricePredictionPipeline()
